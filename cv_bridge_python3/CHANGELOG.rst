@@ -2,8 +2,8 @@
 Changelog for package cv_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.13.1 (2022-03-22)
+-------------------
 * depends on python3, change package name to cv_bridge_python3
 * Contributors: Kei Okada
 
