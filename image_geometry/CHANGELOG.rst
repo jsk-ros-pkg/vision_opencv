@@ -2,6 +2,23 @@
 Changelog for package image_geometry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* update CMakeLists.txt for Windows build environment (`#265 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/265>`_)
+  * windows bringup
+  * Correct binary locations for shared libraries.
+  * fix build break.
+  * fix cv_bridge_boost.pyd.
+  * remove hard-coded STATIC (`#3 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/3>`_)
+  * remove WINDOWS_EXPORT_ALL_SYMBOLS property (`#4 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/4>`_)
+  * add comment
+  Co-authored-by: shschaefer <stuart@theschaefers.com>
+  Co-authored-by: Sean Yen <seanyen@microsoft.com>
+* add DLL import/export macros (`#266 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/266>`_)
+  * update macro names (`#2 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/2>`_)
+  * add exports.h and dll import/export macros
+* Contributors: James Xu
+
 1.13.0 (2018-04-30)
 -------------------
 * Use rosdep OpenCV and not ROS one.
