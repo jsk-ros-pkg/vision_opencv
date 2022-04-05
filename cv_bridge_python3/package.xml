@@ -24,6 +24,7 @@
   </export>
 
   <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>python3-catkin-pkg-modules</buildtool_depend>
 
   <build_depend>boost</build_depend>
   <build_depend>libopencv-dev</build_depend>
