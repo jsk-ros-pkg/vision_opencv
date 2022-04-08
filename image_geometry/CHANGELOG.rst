@@ -2,6 +2,9 @@
 Changelog for package image_geometry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.13.1 (2022-03-22)
 -------------------
 * update CMakeLists.txt for Windows build environment (`#265 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/265>`_)
