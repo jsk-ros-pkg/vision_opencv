@@ -2,8 +2,8 @@
 Changelog for package cv_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.13.2 (2022-04-08)
+-------------------
 * add buildtool_depend for catkin-pkg-modules (`#2 <https://github.com/jsk-ros-pkg/vision_opencv_python3/issues/2>`_)
 * Contributors: Shingo Kitagawa
 
